@@ -324,7 +324,7 @@ section {
   }
 
   .main {
-    background-image: url(images/hoda_phone.jpg);
+    background-image: url(hoda_phone.jpg);
   }
 
   .content {
@@ -359,7 +359,7 @@ section {
 
   .main {
     padding-left: 130px;
-    background-image: url(images/hoda.jpg);
+    background-image: url(hoda.jpg);
     background-position: center top 1cm;
     background-repeat: no-repeat;
   }
